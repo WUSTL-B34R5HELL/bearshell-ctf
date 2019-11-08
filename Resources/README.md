@@ -70,6 +70,7 @@ _Tools used for various kind of bruteforcing (passwords etc.)_
 -   [Ophcrack](http://ophcrack.sourceforge.net/)  - Windows password cracker based on rainbow tables.
 -   [Patator](https://github.com/lanjelot/patator)  - Patator is a multi-purpose brute-forcer, with a modular design.
 -  [HashDecryption.com](HashDecryption.com) -Web page with some decrypted hashes stored
+-   [PDFCrack](http://pdfcrack.sourceforge.net/) - A Password Recovery Tool for PDF-files.
 
 ### Exploits
 
