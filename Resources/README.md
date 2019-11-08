@@ -43,7 +43,7 @@ _Tools used for solving Web challenges_
 -  [XSSer](http://xsser.sourceforge.net/)  - Automated XSS testor.
 -  [OWASP ZAP](https://www.owasp.org/index.php/Projects/OWASP_Zed_Attack_Proxy_Project)  - Intercepting proxy to replay, debug, and fuzz HTTP requests and responses.
 
-Tools### Crypto
+### Crypto
 _Tools used for solving Crypto challenges_
 -	[Cryptovenom](https://github.com/lockedbyte/cryptovenom) - All-around command line tool for encrypting/decrypting
 -   [CyberChef](https://gchq.github.io/CyberChef)  - Web app for analysing and decoding data.
@@ -230,6 +230,7 @@ _Always online CTFs_
 
 -   [PicoCTF](https://picoctf.com/) (*) - Excellent CTF for beginners and experienced members alike! **We recommend all new members start here!** 
 -   [Over The Wire](http://overthewire.org/wargames/)  (*)- Wargame maintained by OvertheWire Community. The inital wargames (Bandit, Natas) are great for beginners. 
+-   [Cryptopals](https://cryptopals.com/) (*) - Introduction to Cryptography CTF
 -   [Pwnable.kr](http://pwnable.kr/)  - All purpose CTF, starts fairly easy but gets pretty hard later on.
 -   [Microcorruption](https://microcorruption.com/)  (**)- Embedded security CTF. Great stack/heap CTF, GUI is a lot of fun.
 -   [Hack The Box](https://www.hackthebox.eu/)  (\*\*-\*\*\*)- Weekly CTFs for all types of security enthusiasts. Has lots of challenges and virtual machines.
@@ -259,10 +260,9 @@ _Always online CTFs_
 -   [VulnHub](https://www.vulnhub.com/)  - VM-based for practical in digital security, computer application & network administration.
 -   [W3Challs](https://w3challs.com/)  - A penetration testing training platform, which offers various computer challenges, in various categories.
 -   [WebHacking](http://webhacking.kr/)  - Hacking challenges for web.
--  [Cryptopals](https://cryptopals.com/) - Introduction to Cryptography CTF
 -  [Net Force](https://www.net-force.nl/) - Web & Steg CTF
 -  [CSAW Challenges](https://365.csaw.io/)
-- [Google XSS](https://xss-game.appspot.com/)
+-  [Google XSS](https://xss-game.appspot.com/)
 
 ## Websites
 
