@@ -37,6 +37,9 @@ Hint: Plain- LUKEISREYSFATHER Cipher- KXJHLRQHXREDSGHQ
 
 MJSWC4SDKRDHWYTBONSTGMS7NFZV643VOBSXEX3DN5WW233OL5UW4X2DKRDHG7I=
 
+### CRYPT8 - file : `CRYPT8.txt`
+Sometimes 1 cipher is not enough. Can you break through every layer to find the flag?
+
 
 ## Steganography
 
