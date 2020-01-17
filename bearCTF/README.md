@@ -120,6 +120,4 @@ Can you buy the flag from the store?
 ## Web
 These challenges are on picoCTF 2019
 
-### where are the robots :sparkles:
-
-### Irish-Name-Repo 1 :sparkles:
+### Web 1 - 3 can be found in the Web folder. Note all flags will be in this format: FLAG{xx} :sparkles:
