@@ -65,7 +65,7 @@ So many file types, hope I saved my file correctly.
 ### STEG3 - file : `stegsolve.jpg`
 Images in Images, can you find my secret message.
 
-### STEG4 - file : `i_see_things.wav`
+### STEG4 - file : `i_see_things.wav` :sparkles:
 Yesterday, I chose to see music. Listening to it is too mainstream.
 
 ### STEG5 - file : `mix_of_things.wav`
@@ -116,3 +116,10 @@ Can you tell me how many bytes it takes to crash the program?
 
 ### EX2 Directory: Exploitation/EX2 | file: `store`
 Can you buy the flag from the store?
+
+## Web
+These challenges are on picoCTF 2019
+
+### where are the robots :sparkles:
+
+### Irish-Name-Repo 1 :sparkles:
