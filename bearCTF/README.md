@@ -104,6 +104,9 @@ Can you find the flag in file? This would be really tedious to look through manu
 ### Forensics3 - file : `forensics_shark.pcapng` 
 My message was broken in different parts. Can you put it together? 
 
+### Forensics4 - file : `forensics4.zip` :sparkles:
+Crack the zipfile!
+
 
 
 ## Exploitation
@@ -118,6 +121,5 @@ Can you tell me how many bytes it takes to crash the program?
 Can you buy the flag from the store?
 
 ## Web
-These challenges are on picoCTF 2019
 
 ### Web 1 - 3 can be found in the Web folder. Note all flags will be in this format: FLAG{xx} :sparkles:
