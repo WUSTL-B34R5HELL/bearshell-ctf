@@ -213,6 +213,7 @@ _Tools used for solving Steganography challenges_
 -   [Steghide](http://steghide.sourceforge.net/)  - Hide data in various kind of images.
 -   [Stegsolve](http://www.caesum.com/handbook/Stegsolve.jar)  - Apply various steganography techniques to images.
 -   [Zsteg](https://github.com/zed-0xff/zsteg/)  - PNG/BMP analysis.
+-   [Stegoveritas](https://github.com/bannsec/stegoVeritas
 
 ## Tutorials
 
