@@ -93,12 +93,11 @@ They are both insane.
 ### Forensics1 - file : `whitepages.txt` - this is from picoCTF2019
 I stopped using YellowPages and moved onto WhitePages... but the page they gave me is all blank!
 
-### Forensics2
+### Forensics2 (Currently Not Available)
 For this challenge, you need to connect to our little server. The file will be in there :
 ### ` ssh bear@34.201.166.179 ` | password: bearCTF
 ### Directory: Forensics | file: `haha.txt`
 Can you find the flag in file? This would be really tedious to look through manually, something tells me there is a better way.
-
 
 
 ### Forensics3 - file : `forensics_shark.pcapng` 
@@ -107,6 +106,8 @@ My message was broken in different parts. Can you put it together?
 ### Forensics4 - file : `forensics4.zip` :sparkles:
 Crack the zipfile!
 
+### Forensics5 - file : `forensics5.zip`
+One of the new developers did a terrible job when using git. The bosses aren't happy, and you should investigate what went wrong! (Flag in bearCTF{...} format)
 
 
 ## Exploitation
