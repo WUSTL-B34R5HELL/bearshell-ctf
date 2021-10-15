@@ -101,6 +101,7 @@ _Tools used for solving Networking challenges_
     -   `apt-get install wireshark`
 -   [Zeek](https://www.zeek.org/)  - An open-source network security monitor.
 -   [Zmap](https://zmap.io/)  - An open-source network scanner.
+-   [NetworkMiner](https://www.netresec.com/) - packet capture analysis
 
 ### Reversing
 
