@@ -39,9 +39,18 @@ _Tools used for solving Web challenges_
 - [Hackbar](https://addons.mozilla.org/en-US/firefox/addon/hackbartool/)  - Firefox addon for easy web exploitation.
 - [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en)  - Add on for chrome for debugging network requests.
 - [Raccoon](https://github.com/evyatarmeged/Raccoon)  - A high performance offensive security tool for reconnaissance and vulnerability scanning.
--  [W3af](https://github.com/andresriancho/w3af)  - Web Application Attack and Audit Framework.
--  [XSSer](http://xsser.sourceforge.net/)  - Automated XSS testor.
--  [OWASP ZAP](https://www.owasp.org/index.php/Projects/OWASP_Zed_Attack_Proxy_Project)  - Intercepting proxy to replay, debug, and fuzz HTTP requests and responses.
+- [W3af](https://github.com/andresriancho/w3af)  - Web Application Attack and Audit Framework.
+- [XSSer](http://xsser.sourceforge.net/)  - Automated XSS testor.
+- [OWASP ZAP](https://www.owasp.org/index.php/Projects/OWASP_Zed_Attack_Proxy_Project)  - Intercepting proxy to replay, debug, and fuzz HTTP requests and responses.
+- [php filter] - err=php://filter/convert.base64-encode/resource=index.php
+- [SSTI](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Template%20Injection#basic-injection) 	- SSTI Repository
+- - [Read File] {{ ''.__class__.__mro__[2].__subclasses__()[40]\()('/home/test/.ssh/id_rsa').read()}}
+- - [RCE] {{config.__class__.__init__.__globals__['os'].popen('cat /etc/passwd').read()}}
+- [Tplmap](https://github.com/epinna/tplmap) - Tplmap assists the exploitation of Code Injection and Server-Side Template Injection vulnerabilities
+- [CSRF] - pip3 install xsrfprobe - automated probe to check for CSRF on a target
+- [JWT](https://jwt.io/) - Examine JWT keys
+- [SSRF Payloads](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Request%20Forgery#file) - SSRF Payloads
+- [JWT Bruteforce] - jwt-cracker <token> <alphabet> <length>
 
 ### Crypto
 _Tools used for solving Crypto challenges_
@@ -54,10 +63,9 @@ _Tools used for solving Crypto challenges_
 -   [RSACTFTool](https://github.com/Ganapati/RsaCtfTool)  - A tool for recovering RSA private key with various attack.
 -   [RSATool](https://github.com/ius/rsatool)  - Generate private key with knowledge of p and q.
 -   [XORTool](https://github.com/hellman/xortool)  - A tool to analyze multi-byte xor cipher.
--   [fastcoll](https://www.win.tue.nl/hashclash/) - An md5sum collision generator.
--   [hash-identifier](https://code.google.com/p/hash-identifier/source/checkout) - Simple hash algorithm identifier.
--   [yafu](http://sourceforge.net/projects/yafu/) - Automated integer factorization.
--   [Esolang](https://esolangs.org/wiki/Main_Page) - Esoteric Programming Languages.
+-  [fastcoll](https://www.win.tue.nl/hashclash/) - An md5sum collision generator.
+-  [hash-identifier](https://code.google.com/p/hash-identifier/source/checkout) - Simple hash algorithm identifier.
+-  [yafu](http://sourceforge.net/projects/yafu/) - Automated integer factorization.
 
 ### Bruteforcers
 
@@ -71,7 +79,6 @@ _Tools used for various kind of bruteforcing (passwords etc.)_
 -   [Ophcrack](http://ophcrack.sourceforge.net/)  - Windows password cracker based on rainbow tables.
 -   [Patator](https://github.com/lanjelot/patator)  - Patator is a multi-purpose brute-forcer, with a modular design.
 -  [HashDecryption.com](HashDecryption.com) -Web page with some decrypted hashes stored
--   [PDFCrack](http://pdfcrack.sourceforge.net/) - A Password Recovery Tool for PDF-files.
 
 ### Exploits
 
@@ -101,7 +108,6 @@ _Tools used for solving Networking challenges_
     -   `apt-get install wireshark`
 -   [Zeek](https://www.zeek.org/)  - An open-source network security monitor.
 -   [Zmap](https://zmap.io/)  - An open-source network scanner.
--   [NetworkMiner](https://www.netresec.com/) - packet capture analysis
 
 ### Reversing
 
@@ -129,7 +135,7 @@ _Tools used for solving Reversing challenges_
 -   [Java Decompilers](http://www.javadecompilers.com/)  - An online decompiler for Java and Android APKs.
 -   [Krakatau](https://github.com/Storyyeller/Krakatau)  - Java decompiler and disassembler.
 -   [Objection](https://github.com/sensepost/objection)  - Runtime Mobile Exploration.
--  [OllyDbg](http://www.ollydbg.de/) - Binary analysis framework
+-   [OllyDbg](http://www.ollydbg.de/) - Binary analysis framework
 -   [PEDA](https://github.com/longld/peda)  - GDB plugin (only python2.7).
 -   [Pin](https://software.intel.com/en-us/articles/pin-a-dynamic-binary-instrumentation-tool)  - A dynamic binary instrumentaion tool by Intel.
 -   [PINCE](https://github.com/korcankaraokcu/PINCE)  - GDB front-end/reverse engineering tool, focused on game-hacking and automation.
@@ -142,6 +148,7 @@ _Tools used for solving Reversing challenges_
 -   [WinDbg](http://www.windbg.org/)  - Windows debugger distributed by Microsoft.
 -   [Xocopy](http://reverse.lostrealm.com/tools/xocopy.html)  - Program that can copy executables with execute, but no read permission.
 -   [Z3](https://github.com/Z3Prover/z3)  - A theorem prover from Microsoft Research.
+-   [decompyle3](https://github.com/rocky/python-decompile3)  - Decompiler translating python bytecode back into python source code.
 
 _JavaScript Deobfuscators_
 
@@ -214,7 +221,6 @@ _Tools used for solving Steganography challenges_
 -   [Steghide](http://steghide.sourceforge.net/)  - Hide data in various kind of images.
 -   [Stegsolve](http://www.caesum.com/handbook/Stegsolve.jar)  - Apply various steganography techniques to images.
 -   [Zsteg](https://github.com/zed-0xff/zsteg/)  - PNG/BMP analysis.
--   [Stegoveritas](https://github.com/bannsec/stegoVeritas
 
 ## Tutorials
 
@@ -238,6 +244,7 @@ _Always online CTFs_
 -   [Pwnable.kr](http://pwnable.kr/)  - All purpose CTF, starts fairly easy but gets pretty hard later on.
 -   [Microcorruption](https://microcorruption.com/)  (**)- Embedded security CTF. Great stack/heap CTF, GUI is a lot of fun.
 -   [Hack The Box](https://www.hackthebox.eu/)  (\*\*-\*\*\*)- Weekly CTFs for all types of security enthusiasts. Has lots of challenges and virtual machines.
+-   [TryHackMe](https://www.tryhackme.com/)  (\*\*-\*\*\*)- TryHackMe is an online platform that teaches cyber security through short, gamified real-world labs. We have content for both complete beginners and seasoned hackers, encorporating guides and challenges to cater for different learning styles.
   
   <br>
   
