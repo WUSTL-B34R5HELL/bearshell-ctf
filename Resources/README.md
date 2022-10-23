@@ -125,6 +125,7 @@ _Tools used for solving Reversing challenges_
 -   [ctf_import](https://github.com/docileninja/ctf_import)  – run basic functions from stripped binaries cross platform.
 -   [cwe_checker](https://github.com/fkie-cad/cwe_checker)  - cwe_checker finds vulnerable patterns in binary executables.
 -   [demovfuscator](https://github.com/kirschju/demovfuscator)  - A work-in-progress deobfuscator for movfuscated binaries.
+-   [decompyle3](https://github.com/rocky/python-decompile3)  - Decompiler translating python bytecode back into python source code.
 -   [Frida](https://github.com/frida/)  - Dynamic Code Injection.
 -   [GDB](https://www.gnu.org/software/gdb/)  - The GNU project debugger.
 -   [GEF](https://github.com/hugsy/gef)  - GDB plugin.
@@ -148,7 +149,6 @@ _Tools used for solving Reversing challenges_
 -   [WinDbg](http://www.windbg.org/)  - Windows debugger distributed by Microsoft.
 -   [Xocopy](http://reverse.lostrealm.com/tools/xocopy.html)  - Program that can copy executables with execute, but no read permission.
 -   [Z3](https://github.com/Z3Prover/z3)  - A theorem prover from Microsoft Research.
--   [decompyle3](https://github.com/rocky/python-decompile3)  - Decompiler translating python bytecode back into python source code.
 
 _JavaScript Deobfuscators_
 
